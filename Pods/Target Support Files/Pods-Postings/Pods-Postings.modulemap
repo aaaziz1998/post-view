@@ -1,0 +1,6 @@
+framework module Pods_Postings {
+  umbrella header "Pods-Postings-umbrella.h"
+
+  export *
+  module * { export * }
+}
